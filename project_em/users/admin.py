@@ -15,6 +15,7 @@ class CustomUserAdmin(UserAdmin):
         "date_of_birth",
         "is_staff",
         "is_active",
+        "is_superuser",
     )
     list_filter = (
         "email",
@@ -23,6 +24,7 @@ class CustomUserAdmin(UserAdmin):
         "date_of_birth",
         "is_staff",
         "is_active",
+        "is_superuser",
     )
     fieldsets = (
         (None, {"fields": (
