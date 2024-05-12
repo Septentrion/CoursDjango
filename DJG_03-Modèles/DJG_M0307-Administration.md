@@ -272,5 +272,5 @@ TEMPLATES = [
 ## Ressources
 
 - [Documentation officielle](https://docs.djangoproject.com/fr/5.0/ref/contrib/admin/)
-- [RealPytoh sur l'administrartion](https://realpython.com/customize-django-admin-python/#overriding-django-admin-templates)
+- [RealPython sur l'administrartion](https://realpython.com/customize-django-admin-python/#overriding-django-admin-templates)
 - [Tutoriel sur la personnalisation de l'administratrion](https://testdriven.io/blog/customize-django-admin/)
